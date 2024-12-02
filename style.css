@@ -161,9 +161,3 @@ nav i {
     height: 100%;
 }
 
-/* RESPONSIVE TELEPHONE */
-@media (max-width: 768px) {
-    nav {
-        background-color: red;
-    }
-}
